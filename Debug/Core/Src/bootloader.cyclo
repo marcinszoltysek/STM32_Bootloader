@@ -1,0 +1,11 @@
+../Core/Src/bootloader.c:17:6:fileCompile	22
+../Core/Src/bootloader.c:116:9:EraseUserApplication	2
+../Core/Src/bootloader.c:136:5:flashProgram	12
+../Core/Src/bootloader.c:191:5:JumpToAddress	1
+../Core/Src/bootloader.c:208:6:JumpToApplication	1
+../Core/Src/bootloader.c:212:6:JumpToBootloader	1
+../Core/Src/bootloader.c:216:9:hexCharToUint	7
+../Core/Src/bootloader.c:227:9:hexCharsToUint	1
+../Core/Src/bootloader.c:231:10:read_uint32_from_flash	1
+../Core/Src/bootloader.c:236:6:flashMemory	4
+../Core/Src/bootloader.c:255:9:UserApplicationExists	1

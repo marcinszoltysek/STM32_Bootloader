@@ -1,0 +1,11 @@
+../Core/Src/bootloader.c:17:6:fileCompile	128	static
+../Core/Src/bootloader.c:116:9:EraseUserApplication	40	static
+../Core/Src/bootloader.c:136:5:flashProgram	48	static
+../Core/Src/bootloader.c:191:5:JumpToAddress	32	static,ignoring_inline_asm
+../Core/Src/bootloader.c:208:6:JumpToApplication	8	static
+../Core/Src/bootloader.c:212:6:JumpToBootloader	8	static
+../Core/Src/bootloader.c:216:9:hexCharToUint	16	static
+../Core/Src/bootloader.c:227:9:hexCharsToUint	24	static
+../Core/Src/bootloader.c:231:10:read_uint32_from_flash	24	static
+../Core/Src/bootloader.c:236:6:flashMemory	40	static
+../Core/Src/bootloader.c:255:9:UserApplicationExists	16	static
